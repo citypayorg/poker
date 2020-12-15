@@ -1,6 +1,11 @@
 # WebClient
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.3.
+npm i @angular/cli@7.1.3
+-- D:\pokerSrc\poker\web-client>node -v
+-- v14.15.1
+-- Node 14는	4.14+   --> https://www.npmjs.com/package/node-sass
+npm i node-sass@4.14.0
 
 ## Development server
 

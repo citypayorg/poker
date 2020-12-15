@@ -28,3 +28,16 @@ Some known issues:
 - Because a Spring Boot project takes quite some time to build and deploy it's possible Heroku thinks the app is timed out before it can startup.
 - Because a Spring Boot projects takes up a lot of resources it's possible the limit is achieved very fastly on Heroku free version (i think it was about 2GB at the time).
 - In hindsight, if you want to build a small-scale poker app, it's probably a better idea to build the core services in NodeJS or Ktor as they require much less resources to deploy.
+
+
+-----------------
+ng serve --host 0.0.0.0 --disableHostCheck true
+
+cd D:\pokerSrc\poker\user-service\gradle\wrapper
+d:
+java -jar gradle-wrapper.jar
+
+cd D:\pokerSrc\poker\game-service\gradle\wrapper
+d:
+java -jar gradle-wrapper.jar
+
