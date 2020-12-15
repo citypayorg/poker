@@ -1,15 +1,5 @@
 # WebClient
-<<<<<<< HEAD
 =======
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.3.
-npm i @angular/cli@7.1.3
--- D:\pokerSrc\poker\web-client>node -v
--- v14.15.1
--- Node 14는	4.14+   --> https://www.npmjs.com/package/node-sass
-npm i node-sass@4.14.0
-
->>>>>>> f42d50fc1d0c017939ec54fa106c95bfc5b6f1ee
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 ## Code scaffolding
