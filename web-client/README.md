@@ -59,3 +59,11 @@ gradlew.bat
 CREATE USER poker PASSWORD 'pokerpoker' SUPERUSER;
 CREATE DATABASE pokerDB OWNER poker;
 ----------------------------------------------------------
+TooT
+파워쉘
+cd D:\pokerSrc\poker\game-service
+./gradlew build
+
+cd D:\pokerSrc\poker\user-service
+./gradlew build
+
